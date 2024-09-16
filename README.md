@@ -40,7 +40,7 @@ https://github.com/voronkov44/calculator-in-array.git
 ![image](https://github.com/user-attachments/assets/f00a3f7d-859c-4467-9a90-59e168034564)
 
 
-Для установки IDE GoLand смотрите [зависимости.]() 
+Для установки IDE GoLand смотрите [зависимости.](https://github.com/voronkov44/calculator-in-array/tree/readme_branch?tab=readme-ov-file#%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8) 
 
 **2.** Для запуска программы нужно ввести следующую команду в терминале вашего IDE.
 ```no-highlight
